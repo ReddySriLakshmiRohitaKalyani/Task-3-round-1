@@ -1,3 +1,19 @@
+.progress{
+		height: 5px;
+	}
+
+
+
+.col-md-3{
+		padding-top:70px;
+         }
+	
+.fa-regular{
+		font-size:20px;
+		color:rgb(147,54,180);
+
+	}
+
 .btn1{
 		width:150px;
 		margin-right:20px;
@@ -7,15 +23,8 @@
 		color: white;
 		border: 1px solid white;
 	}
-	b{
-		font-size: 25px;
-		margin-left:10px;
-	}
-	h1{
-		font-size: 50px;
-	}
-	
-	.btn2{
+
+.btn2{
 		width:150px;
 		margin-right:20px;
 		background-color:white;
@@ -24,18 +33,19 @@
 		border:2px solid rgb(147,54,180);
 		color: rgb(147,54,180);
 	}
-	.progress{
-		height: 5px;
-	}
-	.col-md-3{
-		padding-top:70px;
-	}
-	.fa-regular{
-		font-size:20px;
-		color:rgb(147,54,180);
 
+
+	b{
+		font-size: 25px;
+		margin-left:10px;
 	}
-	.y{
+	h1{
+		font-size: 50px;
+	}
+	
+	
+	
+.oo{
 		background-image:url('images/lop.jpg');
 		background-size:cover ;
 		background-repeat: no-repeat;
@@ -43,22 +53,24 @@
 		border-radius: 20px;
 			}
   
-		.c{
-			color: white;
-			font-size: 50px;
-			padding-top: 50px;
-			padding-left: 20px;
-		}
-		.d{
+.oo1{
+	color: white;
+	font-size: 50px;
+	padding-top: 50px;
+	padding-left: 20px;
+	}
+
+	
+		.oo2{
 			color: white;
 			font-size: 20px;
 			margin-left: 20px;
 		}
-    .e{
+    .oo3{
     	margin-left: 50px;
     	margin-top: 50px;
 
-    }
+    }	
     .card{
     	box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
